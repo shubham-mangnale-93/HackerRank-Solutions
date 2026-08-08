@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-08-08, 12:59 p.m.
+# Submitted   2026-08-08, 01:03 p.m.
 # ──────────────────────────────────────────────────
 
 import sys
