@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-10-20, 12:23 p.m.
+# Submitted   2026-10-20, 12:24 p.m.
 # ──────────────────────────────────────────────────
 
 def merge_the_tools(string, k):
